@@ -1,7 +1,7 @@
 Rank,Name,Year of Birth,Year of Death,Description
-1,Marilyn Monroe,1926,1962," American actress, singer, model"
-2,Abraham Lincoln,1809,1865, US President during American civil war
-3,Mother Teresa,1910,1997, Macedonian Catholic missionary nun
+1,Marilyn Monroe,1926,1962,"American actress, singer, model"
+2,Abraham Lincoln,1809,1865,US President during American civil war
+3,Mother Teresa,1910,1997,Macedonian Catholic missionary nun
 4,John F. Kennedy,1917,1963, US President 1961 - 1963
 5,Martin Luther King,1929,1968, American civil rights campaigner
 6,Nelson Mandela,1918,2013, South African President anti-apartheid campaigner
@@ -48,7 +48,7 @@ Rank,Name,Year of Birth,Year of Death,Description
 48,Malcolm X,1925,1965, American Black nationalist leader
 49,J.K.Rowling,1965,, British author
 50,Richard Branson,1950,, British entrepreneur
-51,Pele,1940,," Brazilian footballer, considered greatest of 20th century."
+51,Pele,1940,," Brazilian footballer, considered greatest of 20th century"
 52,Angelina Jolie,1975,," Actress, director, humanitarian"
 53,Jesse Owens,1913,1980," US track athlete, 1936 Olympics"
 54,Ernest Hemingway,1899,1961, American author
@@ -104,7 +104,7 @@ Rank,Name,Year of Birth,Year of Death,Description
 106,Lech Walesa,1943,,Polish leader of Solidarity movement
 107,Julie Andrews,1935,,"British singer, actress"
 108,Florence Nightingale,1820,1910,British nurse
-109,Marie Curie,1867,1934,Polish / French scientist
+109,Marie Curie,1867,1934,Polish  French scientist
 110,Stephen Hawking,1942,,British scientist
 111,Tim Berners Lee,1955,,English creator of World Wide Web
 112,Lance Armstrong,1971,,American cyclist
@@ -122,3 +122,101 @@ Rank,Name,Year of Birth,Year of Death,Description
 125,Kylie Minogue ,1968,,Australian singer and actress
 126,Malala Yousafzai,1997,,Pakistani human rights activist
 127,Stephen King ,1947,,American author
+128,Taylor Swift,,,
+129,One Direction,,,
+130,James Patterson,,,
+131,Dr. Phil McGraw,,,
+132,Cristiano Ronaldo,,,
+133,Kevin Hart,,,
+134,Howard Stern,,,
+135,Lionel Messi,,,
+136,Adele,,,
+137,Rush Limbaugh,,,
+138,LeBron James,,,
+139,Madonna,,,
+140,Ellen DeGeneres,,,
+141,Rihanna,,,
+142,Garth Brooks,,,
+143,Roger Federer,,,
+145,Rolling Stones,,,
+146,Dwayne Johnson,,,
+147,David Copperfield,,,
+148,Calvin Harris,,,
+149,Sean Combs,,,
+150,Jackie Chan,,,
+151,Bruce Springsteen,,,
+152,Paul McCartney,,,
+153,Justin Bieber,,,
+154,Kenny Chesney,,,
+155,Novak Djokovic,,,
+156,Kevin Durant,,,
+157,Matt Damon,,,
+158,Ryan Seacrest,,,
+160,The Weeknd,,,
+161,Beyonce Knowles,,,
+162,Gordon Ramsay,,,
+163,Jay Z,,,
+164,Luke Bryan,,,
+165,Tom Cruise,,,
+166,Phil Mickelson,,,
+167,Cam Newton,,,
+168,Jordan Spieth,,,
+169,Kim Kardashian,,,
+170,Kobe Bryant,,,
+171,Muse,,,
+172,Foo Fighters,,,
+173,Johnny Depp,,,
+174,Toby Keith,,,
+175,Judy Sheindlin,,,
+176,Lewis Hamilton,,,
+177,Jennifer Lawrence,,,
+178,Tiger Woods,,,
+179,Eli Manning,,,
+180,Joe Flacco,,,
+181,Bigbang,,,
+182,Tom Brady,,,
+183,Floyd Mayweather,,,
+184,Jerry Seinfeld,,,
+185,Ben Affleck,,,
+186,Sofia Vergara,,,
+187,Rory McIlroy,,,
+188,Elton John,,,
+189,Russell Wilson,,,
+190,Dr. Dre,,,
+191,Katy Perry,,,
+192,Sebastian Vettel,,,
+193,Jimmy Buffett,,,
+194,Mumford & Sons,,,
+195,Jennifer Lopez,,,
+196,Drake,,,
+197,Philip Rivers,,,
+198,Tiesto,,,
+199,Zlatan Ibrahimovic,,,
+200,Rafael Nadal,,,
+201,Neymar,,,
+202,Jason Aldean,,,
+203,Fernando Alonso,,,
+204,Gareth Bale,,,
+205,Marcell Dareus,,,
+206,Vin Diesel,,,
+207,Peyton Manning,,,
+208,Derrick Rose,,,
+209,Maroon 5,,,
+210,A.J. Green,,,
+211,Kei Nishikori,,,
+212,Ed Sheeran,,,
+213,Robert Downey Jr.,,,
+214,James Harden,,,
+215,Shah Rukh Khan,,,
+216,Dave Matthews Band,,,
+217,Melissa McCarthy,,,
+218,Usain Bolt,,,
+219,Clayton Kershaw,,,
+220,Dwyane Wade,,,
+221,Akshay Kumar,,,
+222,Penn & Teller,,,
+223,Brad Pitt,,,
+224,Carmelo Anthony,,,
+225,Drew Brees,,,
+226,Gisele Buendchen,,,
+227,Britney Spears,,,

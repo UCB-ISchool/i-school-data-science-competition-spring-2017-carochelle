@@ -47,8 +47,8 @@ with open('data.csv', 'w', newline='') as csvfile:
 		decoded = response.decode('utf-8')
 
 		# check if the page is redirected to another
-		redirect = decoded.find('#REDIRECT')
-		if redirect > -1:
+		redirect = decoded.lower().find('#redirect')
+		if redirect > -1: 
 			decoded = new_search(decoded)
 		
 		spouse_word = decoded.find('spouse')
@@ -86,15 +86,13 @@ with open('data.csv', 'w', newline='') as csvfile:
 			text = text[marriage_start:]
 			marriage_start = text.lower().find('{marriage')
 		
-		entry = entry.replace('%20', " ")
+		entry = entry.replace('%20', " ") # in case divorce is missed somehow, another check that at least sets divorce to 1
+		num_divorces = decoded.count('divorce')
+		if num_divorces > 3  and count_divorces == 0 and len(list_of_spouses) > 0:
+				count_divorces = 1
 
 		results.append((entry, count_marriage, count_divorces, list_of_spouses))
-		spouses = ""
-		for item in list_of_spouses:
-			spouses = spouses + item + ', '
-		spouses = spouses[:-2]
-		string = entry + "," + str(count_marriage) + "," + str(count_divorces) + "," + spouses
-		celebwriter.writerow(string)
+		celebwriter.writerow(results)
 
 
 

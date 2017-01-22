@@ -1,124 +1,204 @@
-celebrity,number_of_marriages,number_of_divorces,Spouse1,Spouse2,Spouse3,Spouse4
-Marilyn Monroe,3,3,James Dougherty, Joe DiMaggio, Arthur Miller,
-Abraham Lincoln,1,0,Mary Todd Lincoln,,,
-Mother Teresa,0,0,,,,
-John F. Kennedy,1,0,Jacqueline Kennedy Onassis,,,
-Martin Luther King,1,0,Coretta Scott King,,,
-Nelson Mandela,3,2,Evelyn Mase, Winnie Madikizela, Gra,
-Winston Churchill,1,0,Clementine Churchill,,,
-Bill Gates,1,0,Melinda Gates,,,
-Muhammad Ali,4,3,Sonji Roi, Khalilah Ali, Veronica Porch, Yolanda Williams
-Mahatma Gandhi,1,0,Kasturba Gandhi,,,
-Margaret Thatcher,1,0,Denis Thatcher,,,
-Charles de Gaulle,1,0,Yvonne de Gaulle,,,
-Christopher Columbus,1,0,Filipa Moniz Perestrelo,,,
-George Orwell,1,0,Eileen O,,,
-Charles Darwin,1,0,Emma Darwin,,,
-Elvis Presley,1,1,Priscilla Presley,,,
-Albert Einstein,1,0,Mileva Mari,,,
-Paul McCartney,3,1,Linda McCartney, Heather Mills, Nancy Shevell,
-Queen Elizabeth II,1,0,Prince Philip,,,
-Queen Victoria,1,0,Albert,,,
-John M Keynes,0,0,,,,
-Mikhail Gorbachev,1,0,Raisa Gorbachova,,,
-Jawaharlal Nehru,1,0,Kamla Nehru,,,
-Leonardo da Vinci,0,0,,,,
-Louis Pasteur,0,0,,,,
-Leo Tolstoy,1,0,Sophia Tolstaya,,,
-Pablo Picasso,2,0,Olga Khokhlova, Jacqueline Roque,,
-Vincent Van Gogh,0,0,,,,
-Franklin D. Roosevelt,1,0,Eleanor Roosevelt,,,
-Pope John Paul II,1,0,To honour the pope,,,
-Thomas Edison,2,0,Mary Stilwell , Mina Miller ,,
-Rosa Parks,1,0,Raymond Parks,,,
-Aung San Suu Kyi,1,0,Michael Aris,,,
-Lyndon Johnson,1,0,Lady Bird Johnson,,,
-Ludwig Beethoven,1,0,Steblin,,,
-Oprah Winfrey,0,0,,,,
-Indira Gandhi,1,0,Feroze Gandhi,,,
-Eva Peron,0,0,,,,
-Benazir Bhutto,1,0,Asif Ali Zardari,,,
-Desmond Tutu,0,0,,,,
-Dalai Lama,1,0,Dalai Lama,,,
-Walt Disney,0,0,,,,
-Neil Armstrong,0,0,,,,
-Donald Trump,3,2,Ivana Zeln, Marla Maples, Melania Knauss,
-Peter Sellers,4,4,Anne Howe, Britt Ekland, Miranda, Lynne Frederick
-Barack Obama,1,0,Michelle Obama,,,
-Malcolm X,1,0,Betty Shabazz,,,
-J.K.Rowling,2,1,Jorge Arantes, Neil Murray,,
-Richard Branson,2,0,Kristen Tomassi, Joan Templeman,,
-Pele,0,0,,,,
-Angelina Jolie,3,0,Jonny Lee Miller, Billy Bob Thornton, Brad Pitt,
-Jesse Owens,0,0,,,,
-Ernest Hemingway,4,3,Elizabeth Hadley Richardson, Pauline Pfeiffer, Martha Gellhorn, Mary Welsh Hemingway
-John Lennon,2,1,Cynthia Lennon, Yoko Ono,,
-Henry Ford,1,0,Clara Jane Bryant,,,
-Haile Selassie,1,0,Menen Asfaw,,,
-Joseph Stalin,1,0,Kato Svanidze,,,
-Lord Baden Powell,0,0,,,,
-Michael Jordon,0,0,,,,
-George Bush Jnr,0,0,,,,
-Vladimir Lenin,1,0,Nadezhda Krupskaya,,,
-Ingrid Bergman,3,3,Petter Lindstr, Roberto Rossellini, Lars Schmidt,
-Fidel Castro,1,0,Mirta Diaz,,,
-Oscar Wilde,1,0,Constance Lloyd,,,
-Coco Chanel,0,0,,,,
-Pope Francis,0,0,,,,
-Amelia Earhart,1,0,George P,,,
-Adolf Hitler,1,0,Eva Braun,,,
-Sting,0,0,,,,
-Alfred Hitchcock,1,0,Alma Reville,,,
-Michael Jackson,2,2,Lisa Marie Presley, Debbie Rowe,,
-Madonna,0,0,,,,
-Mata Hari,1,0,Rudolf John MacLeod ,,,
-Grace Kelly,1,0,Rainier III,,,
-Steve Jobs,1,0,Laurene Powell Jobs,,,
-Ronald Reagan,2,0,Jane Wyman, Nancy Reagan,,
-Lionel Messi,0,0,,,,
-Babe Ruth,0,0,,,,
-Bob Geldof,0,0,,,,
-Leon Trotsky,1,0,Aleksandra Sokolovskaya,,,
-Roger Federer,0,0,,,,
-Sigmund Freud,1,0,Martha Bernays,,,
-Woodrow Wilson,2,0,Ellen Axson Wilson, Edith Wilson,,
-Mao Zedong,1,0,Luo Yixiu,,,
-Katherine Hepburn,1,1,Ludlow Ogden Smith,,,
-Audrey Hepburn,2,2,Mel Ferrer, Andrea Dotti ,,
-David Beckham,1,0,Victoria Beckham,,,
-Tiger Woods,1,0,Elin Nordegren,,,
-Usain Bolt,0,0,,,,
-Carl Lewis,0,0,,,,
-Prince Charles,0,0,,,,
-Jacqueline Kennedy Onassis,2,0,John F, Aristotle Onassis,,
-C.S. Lewis,1,0,Joy Davidman,,,
-Billie Holiday,0,0,,,,
-J.R.R. Tolkien,1,0,Edith Tolkien,,,
-Billie Jean King,0,0,,,,
-Anne Frank,0,0,,,,
-Simon Bolivar,0,0,,,,
-Marie Antoinette,1,0,Louis XVI of France,,,
-Cristiano Ronaldo,0,0,,,,
-Emmeline Pankhurst,1,0,Richard Pankhurst,,,
-Emile Zatopek,0,0,,,,
-Lech Walesa,0,0,,,,
-Julie Andrews,2,1,Tony Walton, Blake Edwards,,
-Florence Nightingale,0,0,,,,
-Marie Curie,1,0,Pierre Curie,,,
-Stephen Hawking,2,2,Jane Hawking, Elaine Mason,,
-Tim Berners Lee,0,0,,,,
-Lance Armstrong,0,0,,,,
-Shakira,0,0,,,,
-Jon Stewart,1,0,Tracey Lynn Stewart,,,
-Roman Abramovich,2,0,Olga Lysova, Irina Malandina,,
-Tom Cruise,3,3,Mimi Rogers, Nicole Kidman, Katie Holmes,
-Rupert Murdoch,1,0,Patricia Booker ,,,
-Al Gore,1,0,Tipper Gore,,,
-Sacha Baron Cohen,1,0,Isla Fisher,,,
-George Clooney,2,1,Talia Balsam, Amal Clooney,,
-Paul Krugman,0,0,,,,
-Jimmy Wales,1,0,Pamela Green ,,,
-Brad Pitt,2,1,Jennifer Aniston, Angelina Jolie,,
-Kylie Minogue,0,0,,,,
-Malala Yousafzai,0,0,,,,
-Stephen King,1,0,Tabitha King,,,
+celebrity,number_of_marriages,number_of_divorces,Spouse1,Spouse2,Spouse3,Spouse4,Description,Famous for,Forbes Top 100,Earnings
+A.J. Green,0,0,,,,,,sports,1,$33.50 
+Abraham Lincoln,1,0,Mary Todd Lincoln,,,, US President during American civil war,politics,0,
+Adele,0,0,,,,,,entertainment,1,$80.50 
+Adolf Hitler,1,0,Eva Braun,,,, leader of Nazi Germany 1933 - 1945,politics,0,
+Akshay Kumar,1,0,Twinkle Khanna,,,,,entertainment,1,$31.50 
+Al Gore,1,0,Tipper Gore,,,,US presidential candidate and environmental campaigner,politics,0,
+Albert Einstein,1,0,Mileva Mari,,,," German scientist, theory of relativity",science,0,
+Alfred Hitchcock,1,0,Alma Reville,,,," English / American film producer, director",entertainment,0,
+Amelia Earhart,1,0,George P,,,, Aviator,science,0,
+Angelina Jolie,3,0,Jonny Lee Miller, Billy Bob Thornton, Brad Pitt,," Actress, director, humanitarian",entertainment,0,
+Anne Frank,0,0,,,,, Dutch Jewish author who died in Holocaust,religion & humanities,0,
+Audrey Hepburn,2,2,Mel Ferrer, Andrea Dotti ,,, British actress and humanitarian,entertainment,0,
+Aung San Suu Kyi,1,0,Michael Aris,,,, Burmese opposition leader,politics,0,
+Babe Ruth,2,1,Helen Woodford,Claire Merritt Hodgson,,, American baseball player,sports,0,
+Barack Obama,1,0,Michelle Obama,,,, US President 2008 - 2016,politics,0,
+Ben Affleck,1,1,Jennifer Garner,,,,,entertainment,1,$43 
+Benazir Bhutto,1,0,Asif Ali Zardari,,,, Prime Minister of Pakistan 1993 - 1996,politics,0,
+Beyoncé Knowles,0,0,,,,,,entertainment,1,$54 
+Bill Gates,1,0,Melinda Gates,,,," American businessman, founder of Microsoft",business,0,
+Billie Holiday,0,0,,,,, American jazz singer,entertainment,0,
+Billie Jean King,0,0,,,,, American tennis player and human rights activist,sports,0,
+Bob Geldof,2,1,Paula Yates,Jeanne Marine,,," Irish musician, charity worker",religion & humanities,0,
+Brad Pitt,2,1,Jennifer Aniston, Angelina Jolie,,,,entertainment,1,$31.50 
+Britney Spears,2,1,Jason Allen Alexander, Kevin Federline,,,,entertainment,1,$30.50 
+Bruce Springsteen,1,1,Julianne Phillips,,,,,entertainment,1,$60.50 
+C.S. Lewis,1,0,Joy Davidman,,,, British author,entertainment,0,
+Calvin Harris,0,0,,,,,,entertainment,1,$63 
+Cam Newton,0,0,,,,,,sports,1,$53 
+Carl Lewis,0,0,,,,, US athlete and Olympian,sports,0,
+Carmelo Anthony,0,0,,,,,,sports,1,$31 
+Charles Darwin,1,0,Emma Darwin,,,," British scientist, theory of evolution",science,0,
+Charles de Gaulle,1,0,Yvonne de Gaulle,,,, French resistance leader and President 1959 - 1969,politics,0,
+Christopher Columbus,1,0,Filipa Moniz Perestrelo,,,, Italian explorer,science,0,
+Clayton Kershaw,0,0,,,,,,sports,1,$32 
+Coco Chanel,0,0,,,,, French fashion designer,arts,0,
+Cristiano Ronaldo,0,0,,,,,Portuguese footballer,sports,1,$88 
+Dalai Lama,1,0,Dalai Lama,,,, Spiritual and political leader of Tibetans,religion & humanities,0,
+Dave Matthews Band,0,0,,,,,,entertainment,1,$33 
+David Beckham,1,0,Victoria Beckham,,,,English footballer,sports,0,
+David Copperfield,0,0,,,,,,entertainment,1,$64 
+Derrick Rose,0,0,,,,,,sports,1,$34 
+Desmond Tutu,0,0,,,,, South African Bishop and opponent of apartheid,religion & humanities,0,
+Donald Trump,3,2,Ivana Zeln, Marla Maples, Melania Knauss,," Businessman, politician",business,0,
+Dr. Dre,1,0,Nicole Young,,,,,entertainment,1,$41 
+Dr. Phil McGraw,2,0,Debbie Higgins, Robin Jameson,,,,entertainment,1,$88 
+Drake,0,0,,,,,,entertainment,1,$38.50 
+Drew Brees,0,0,,,,,,sports,1,$31 
+Dwayne Johnson,1,1,Dany Garcia,,,,,entertainment,1,$64.50 
+Dwyane Wade,0,0,,,,,,sports,1,$32 
+Ed Sheeran,0,0,,,,,,entertainment,1,$33.50 
+Eli Manning,0,0,,,,,,sports,1,$45 
+Ellen DeGeneres,1,0,Portia de Rossi ,,,,,entertainment,1,$75 
+Elton John,2,1,Renate Blauel, David Furnish,,,,entertainment,1,$42 
+Elvis Presley,1,1,Priscilla Presley,,,, American Musician,entertainment,0,
+Emile Zatopek,0,0,,,,, Czech athlete,sports,0,
+Emmeline Pankhurst,1,0,Richard Pankhurst,,,,English suffragette,religion & humanities,0,
+Ernest Hemingway,4,3,Elizabeth Hadley Richardson, Pauline Pfeiffer, Martha Gellhorn, Mary Welsh Hemingway, American author,entertainment,0,
+Eva Peron,1,0,,,,, First Lady of Argentina 1946 - 1952,politics,0,
+Fernando Alonso,0,0,,,,,,sports,1,$36.50 
+Fidel Castro,1,0,Mirta Diaz,,,,President of Cuba 1976 - 2008,politics,0,
+Florence Nightingale,0,0,,,,,British nurse,religion & humanities,0,
+Floyd Mayweather,0,0,,,,,,sports,1,$44 
+Franklin D. Roosevelt,1,0,Eleanor Roosevelt,,,, US President 1932 - 1945,politics,0,
+Gareth Bale,0,0,,,,,,sports,1,$36 
+Garth Brooks,2,1,Sandy Mahl, Trisha Yearwood,,,,entertainment,1,$70 
+George Bush Jnr,1,0,Laura Welch,,,, US President 2000-2008,politics,0,
+George Clooney,2,1,Talia Balsam, Amal Clooney,,,American actor and political activist,entertainment,0,
+George Orwell,1,0,Eileen O,,,, British author,entertainment,0,
+Gisele Bündchen,0,0,,,,,,entertainment,1,$30.50 
+Gordon Ramsay,1,0,Tana Ramsay,,,,,entertainment,1,$54 
+Grace Kelly,1,0,Rainier III,,,," American actress, Princess of Monaco",entertainment,0,
+Haile Selassie,1,0,Menen Asfaw,,,, Emperor of Ethiopia 1930 - 1974,politics,0,
+Henry Ford,1,0,Clara Jane Bryant,,,, US Industrialist,business,0,
+Howard Stern,2,1,Alison Berns, Beth Ostrosky Stern,,,,entertainment,1,$85 
+Indira Gandhi,1,0,Feroze Gandhi,,,, Prime Minister of India 1966 - 1977,politics,0,
+Ingrid Bergman,3,3,Petter Lindstr, Roberto Rossellini, Lars Schmidt,, Swedish actress,entertainment,0,
+J.K.Rowling,2,1,Jorge Arantes, Neil Murray,,, British author,entertainment,0,
+J.R.R. Tolkien,1,0,Edith Tolkien,,,, British author,entertainment,0,
+Jackie Chan,1,0,Joan Lin,,,,,entertainment,1,$61 
+Jacqueline Kennedy Onassis,2,0,John F, Aristotle Onassis,,, American wife of JF Kennedy,politics,0,
+James Harden,0,0,,,,,,sports,1,$33 
+James Patterson,1,0,Susan Patterson,,,,,entertainment,1,$95 
+Jason Aldean,0,0,,,,,,entertainment,1,$36.50 
+Jawaharlal Nehru,1,0,Kamla Nehru,,,, Indian Prime Minister 1947 - 1964,politics,0,
+Jay Z,1,0,Beyonc,,,,,entertainment,1,$53.50 
+Jennifer Lawrence,0,0,,,,,,entertainment,1,$46 
+Jennifer Lopez,3,3,Ojani Noa, Cris Judd, Marc Anthony,,,entertainment,1,$39.50 
+Jerry Seinfeld,1,0,Jessica Seinfeld,,,,,entertainment,1,$43.50 
+Jesse Owens,1,0,Minnie Ruth Solomon,,,," US track athlete, 1936 Olympics",sports,0,
+Jimmy Buffett,0,0,,,,,,entertainment,1,$40.50 
+Jimmy Wales,1,0,Pamela Green ,,,,American creator of Wikipedia,business,0,
+Joe Flacco,0,0,,,,,,sports,1,$44.50 
+John F. Kennedy,1,0,Jacqueline Kennedy Onassis,,,, US President 1961 - 1963,politics,0,
+John Lennon,2,1,Cynthia Lennon, Yoko Ono,,," British musician, member of the Beatles",entertainment,0,
+John M Keynes,0,0,,,,, British economist,science,0,
+Johnny Depp,2,2,Lori Anne Allison, Amber Heard,,,,entertainment,1,$48 
+Jon Stewart,1,0,Tracey Lynn Stewart,,,,American comedian,entertainment,0,
+Jordan Spieth,1,0,Annie Verret,,,,,sports,1,$53 
+Joseph Stalin,1,0,Kato Svanidze,,,, Leader of Soviet Union 1924 - 1953,politics,0,
+Judy Sheindlin,1,1,Ronald Levy,,,,,entertainment,1,$47 
+Julie Andrews,2,1,Tony Walton, Blake Edwards,,,"British singer, actress",entertainment,0,
+Justin Bieber,0,0,,,,,,entertainment,1,$56 
+Katherine Hepburn,1,1,Ludlow Ogden Smith,,,, American actress,entertainment,0,
+Katy Perry,1,1,Russell Brand,,,,,entertainment,1,$41 
+Kei Nishikori,0,0,,,,,,sports,1,$33.50 
+Kenny Chesney,0,0,,,,,,entertainment,1,$56 
+Kevin Durant,0,0,,,,,,sports,1,$56 
+Kevin Hart,2,1,Torrei Hart, Eniko Parrish,,,,entertainment,1,$87.50 
+Kim Kardashian,2,1,The Underdogs , Kris Humphries,,,,entertainment,1,$51 
+Kobe Bryant,0,0,,,,,,sports,1,$50 
+Kylie Minogue,0,0,,,,,Australian singer and actress,entertainment,0,
+Lance Armstrong,0,0,,,,,American cyclist,sports,0,
+LeBron James,0,0,,,,,,sports,1,$77 
+Lech Walesa,0,0,,,,,Polish leader of Solidarity movement,politics,0,
+Leo Tolstoy,1,0,Sophia Tolstaya,,,, Russian author and philosopher,entertainment,0,
+Leon Trotsky,1,0,Aleksandra Sokolovskaya,,,, Russian Marxist revolutionary,religion & humanities,0,
+Leonardo da Vinci,0,0,,,,," Italian, painter, scientist, polymath",science,0,
+Lewis Hamilton,0,0,,,,,,sports,1,$46 
+Lionel Messi,1,0,Antonella Roccuzzo,,,, Argentinian footballer,sports,1,$81.50 
+Lord Baden Powell,1,0,Olave St Clair Soames,,,, British Founder of scout movement,religion & humanities,0,
+Louis Pasteur,0,0,,,,, French chemist and microbiologist,science,0,
+Ludwig Beethoven,1,0,Steblin,,,, German composer,entertainment,0,
+Luke Bryan,0,0,,,,,,entertainment,1,$53 
+Lyndon Johnson,1,0,Lady Bird Johnson,,,, US President 1963 - 1969,politics,0,
+Madonna,2,2,Sean Penn,Guy Ritchie,,," American musician, actress, author",entertainment,1,$76.50 
+Mahatma Gandhi,1,0,Kasturba Gandhi,,,, Leader of Indian independence movement,religion & humanities,0,
+Malala Yousafzai,0,0,,,,,Pakistani human rights activist,religion & humanities,0,
+Malcolm X,1,0,Betty Shabazz,,,, American Black nationalist leader,religion & humanities,0,
+Mao Zedong,1,0,Luo Yixiu,,,, Leader of Chinese Communist revolution,politics,0,
+Marcell Dareus,0,0,,,,,,sports,1,$35 
+Margaret Thatcher,1,0,Denis Thatcher,,,, British Prime Minister 1979 - 1990,politics,0,
+Marie Antoinette,1,0,Louis XVI of France,,,," French Queen, executed during the French revolution",monarchs,0,
+Marie Curie,1,0,Pierre Curie,,,,Polish / French scientist,science,0,
+Marilyn Monroe,3,3,James Dougherty, Joe DiMaggio, Arthur Miller,,"American actress,singer",entertainment,0,
+Martin Luther King,1,0,Coretta Scott King,,,, American civil rights campaigner,religion & humanities,0,
+Mata Hari,1,0,Rudolf John MacLeod ,,,," Dutch exotic dancer, executed as spy",entertainment,0,
+Matt Damon,1,0,Luciana Boz,,,,,entertainment,1,$55 
+Melissa McCarthy,1,0,Ben Falcone,,,,,entertainment,1,$33 
+Michael Jordon,2,1,Juanita Vanoy,Yvette Prieto,,, US Basketball star,sports,0,
+Mikhail Gorbachev,1,0,Raisa Gorbachova,,,,Leader of Soviet Union 1985 - 1991,politics,0,
+Mother Teresa,0,0,,,,, Macedonian Catholic missionary nun,religion & humanities,0,
+Muhammad Ali,4,3,Sonji Roi, Khalilah Ali, Veronica Porch, Yolanda Williams, American Boxer and civil rights campaigner,sports,0,
+Neil Armstrong,2,1,,,,, US astronaut,science,0,
+Nelson Mandela,3,2,Evelyn Mase, Winnie Madikizela, Gra,, South African President anti-apartheid campaigner,politics,0,
+Neymar,0,0,,,,,,sports,1,$37.50 
+Novak Djokovic,0,0,,,,,,sports,1,$56 
+Oprah Winfrey,0,0,,,,,"American TV presenter, actress, entrepreneur",entertainment,0,
+Oscar Wilde,1,0,Constance Lloyd,,,," Irish author, poet, playwright",entertainment,0,
+Pablo Picasso,2,0,Olga Khokhlova, Jacqueline Roque,,, Spanish modern artist,arts,0,
+Paul Krugman,0,0,,,,,American Nobel Prize winning economist,science,0,
+Paul McCartney,3,1,Linda McCartney, Heather Mills, Nancy Shevell,," British musician, member of Beatles",entertainment,1,$56.50 
+Pele,3,2,Rosemeri dos Reis Cholbi,Assíria Lemos Seixas,Marcia Aoki,," Brazilian footballer, considered greatest of 20th century.",sports,0,
+Peter Sellers,4,4,Anne Howe, Britt Ekland, Miranda, Lynne Frederick, British actor and comedian,entertainment,0,
+Peyton Manning,0,0,,,,,,sports,1,$34 
+Phil Mickelson,1,0,Amy ,,,,,sports,1,$53 
+Philip Rivers,0,0,,,,,,sports,1,$38 
+Pope Francis,0,0,,,,, First pope from the Americas,religion & humanities,0,
+Pope John Paul II,1,0,To honour the pope,,,, Polish Pope,religion & humanities,0,
+Prince Charles,2,1,,,,,Heir to British throne,monarchs,0,
+Queen Elizabeth II,1,0,Prince Philip,,,, British monarch since 1954,monarchs,0,
+Queen Victoria,1,0,Albert,,,, British monarch 1837 - 1901,monarchs,0,
+Rafael Nadal,0,0,,,,,,sports,1,$37.50 
+Richard Branson,2,1,Kristen Tomassi, Joan Templeman,,, British entrepreneur,business,0,
+Rihanna,0,0,,,,,,entertainment,1,$75 
+Robert Downey Jr.,2,0,Deborah Falconer, Susan Downey,,,,entertainment,1,$33 
+Roger Federer,0,0,,,,, Swiss Tennis player,sports,1,$68 
+Rolling Stones,0,0,,,,,,entertainment,1,$66.50 
+Roman Abramovich,3,2,Olga Lysova, Irina Malandina,,,Russian oligarch,business,0,
+Ronald Reagan,2,0,Jane Wyman, Nancy Reagan,,, US President 1981-1989,politics,0,
+Rory McIlroy,1,0,Erica Stoll,,,,,sports,1,$42.50 
+Rosa Parks,1,0,Raymond Parks,,,, American civil rights activist,religion & humanities,0,
+Rupert Murdoch,1,0,Patricia Booker ,,,,Media owner of News Corporation,business,0,
+Rush Limbaugh,1,1,Roxy Maxine McNeely ,,,,,entertainment,1,$79 
+Russell Wilson,1,0,Infobox NFL player,,,,,sports,1,$42 
+Ryan Seacrest,0,0,,,,,,entertainment,1,$55 
+Sacha Baron Cohen,1,0,Isla Fisher,,,,English comedian,entertainment,0,
+Sean Combs,0,0,,,,,,entertainment,1,$62 
+Sebastian Vettel,0,0,,,,,,sports,1,$41 
+Shah Rukh Khan,1,0,Gauri Khan,,,,,entertainment,1,$33 
+Shakira,0,0,,,,,Colombian singer,entertainment,0,
+Sigmund Freud,1,0,Martha Bernays,,,, Austrian psychoanalyst,science,0,
+Simon Bolivar,0,0,,,,, Venezuelan independence activist in South America.,religion & humanities,0,
+Sofía Vergara,0,0,,,,,,entertainment,1,$43 
+Stephen Hawking,2,2,Jane Hawking, Elaine Mason,,,British scientist,science,0,
+Stephen King,1,0,Tabitha King,,,,American author,entertainment,0,
+Steve Jobs,1,0,Laurene Powell Jobs,,,, co-founder of Apple computers,business,0,
+Sting,2,1,Frances Tomelty,Trudie Styler,,, British musician,entertainment,0,
+Taylor Swift,0,0,,,,,,entertainment,1,$170 
+Thomas Edison,2,0,Mary Stilwell , Mina Miller ,,, American inventor,science,0,
+Tiesto,0,0,,,,,,entertainment,1,$38 
+Tiger Woods,1,1,Elin Nordegren,,,, American golfer,sports,1,$45.50 
+Tim Berners Lee,0,0,,,,,English creator of World Wide Web,science,0,
+Toby Keith,0,0,,,,,,entertainment,1,$47.50 
+Tom Brady,0,0,,,,,,sports,1,$44 
+Tom Cruise,3,3,Mimi Rogers, Nicole Kidman, Katie Holmes,,American actor,entertainment,1,$53 
+Usain Bolt,0,0,,,,, Jamaican athlete and Olympian,sports,1,$32.50 
+Vin Diesel,0,0,,,,,,entertainment,1,$35 
+Vincent Van Gogh,0,0,,,,, Dutch artist,arts,0,
+Vladimir Lenin,1,0,Nadezhda Krupskaya,,,, Leader of Russian Revolution 1917,politics,0,
+Walt Disney,1,0,,,,, American film producer,entertainment,0,
+Winston Churchill,1,0,Clementine Churchill,,,, British Prime Minister during WWII,politics,0,
+Woodrow Wilson,2,0,Ellen Axson Wilson, Edith Wilson,,, US president 1913 - 1921,politics,0,
+Zlatan Ibrahimovic,0,0,,,,,,sports,1,$37.50 
