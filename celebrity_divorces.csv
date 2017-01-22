@@ -1,0 +1,124 @@
+Name,Marriages,Divorces,List of Spouses
+Marilyn Monroe,3,3,"['James Dougherty', 'Joe DiMaggio', 'Arthur Miller']"
+Abraham Lincoln,1,0,['Mary Todd Lincoln']
+Mother Teresa,0,0,[]
+John F. Kennedy,1,0,['Jacqueline Kennedy Onassis']
+Martin Luther King,1,0,['Coretta Scott King']
+Nelson Mandela,3,2,"['Evelyn Mase', 'Winnie Madikizela', 'Gra']"
+Winston Churchill,1,0,['Clementine Churchill']
+Bill Gates,1,0,['Melinda Gates']
+Muhammad Ali,4,3,"['Sonji Roi', 'Khalilah Ali', 'Veronica Porch', 'Yolanda Williams']"
+Mahatma Gandhi,1,0,['Kasturba Gandhi']
+Margaret Thatcher,1,0,['Denis Thatcher']
+Charles de Gaulle,1,0,['Yvonne de Gaulle']
+Christopher Columbus,1,0,['Filipa Moniz Perestrelo']
+George Orwell,1,0,['Eileen O']
+Charles Darwin,1,0,['Emma Darwin']
+Elvis Presley,1,1,['Priscilla Presley']
+Albert Einstein,1,0,['Mileva Mari']
+Paul McCartney,3,1,"['Linda McCartney', 'Heather Mills', 'Nancy Shevell']"
+Queen Elizabeth II,1,0,['Prince Philip']
+Queen Victoria,1,0,['Albert']
+John M Keynes,0,0,[]
+Mikhail Gorbachev,1,0,['Raisa Gorbachova']
+Jawaharlal Nehru,1,0,['Kamla Nehru']
+Leonardo da Vinci,0,0,[]
+Louis Pasteur,0,0,[]
+Leo Tolstoy,1,0,['Sophia Tolstaya']
+Pablo Picasso,2,0,"['Olga Khokhlova', 'Jacqueline Roque']"
+Vincent Van Gogh,0,0,[]
+Franklin D. Roosevelt,1,0,['Eleanor Roosevelt']
+Pope John Paul II,1,0,['To honour the pope']
+Thomas Edison,2,0,"['Mary Stilwell ', 'Mina Miller ']"
+Rosa Parks,1,0,['Raymond Parks']
+Aung San Suu Kyi,1,0,['Michael Aris']
+Lyndon Johnson,1,0,['Lady Bird Johnson']
+Ludwig Beethoven,1,0,['Steblin']
+Oprah Winfrey,0,0,[]
+Indira Gandhi,1,0,['Feroze Gandhi']
+Eva Peron,0,0,[]
+Benazir Bhutto,1,0,['Asif Ali Zardari']
+Desmond Tutu,0,0,[]
+Dalai Lama,1,0,['Dalai Lama']
+Walt Disney,0,0,[]
+Neil Armstrong,0,0,[]
+Donald Trump,3,2,"['Ivana Zeln', 'Marla Maples', 'Melania Knauss']"
+Peter Sellers,4,4,"['Anne Howe', 'Britt Ekland', 'Miranda', 'Lynne Frederick']"
+Barack Obama,1,0,['Michelle Obama']
+Malcolm X,1,0,['Betty Shabazz']
+J.K.Rowling,2,1,"['Jorge Arantes', 'Neil Murray']"
+Richard Branson,2,1,"['Kristen Tomassi', 'Joan Templeman']"
+Pele,0,0,[]
+Angelina Jolie,3,0,"['Jonny Lee Miller', 'Billy Bob Thornton', 'Brad Pitt']"
+Jesse Owens,0,0,[]
+Ernest Hemingway,4,3,"['Elizabeth Hadley Richardson', 'Pauline Pfeiffer', 'Martha Gellhorn', 'Mary Welsh Hemingway']"
+John Lennon,2,1,"['Cynthia Lennon', 'Yoko Ono']"
+Henry Ford,1,0,['Clara Jane Bryant']
+Haile Selassie,1,0,['Menen Asfaw']
+Joseph Stalin,1,0,['Kato Svanidze']
+Lord Baden Powell,0,0,[]
+Michael Jordon,0,0,[]
+George Bush Jnr,0,0,[]
+Vladimir Lenin,1,0,['Nadezhda Krupskaya']
+Ingrid Bergman,3,3,"['Petter Lindstr', 'Roberto Rossellini', 'Lars Schmidt']"
+Fidel Castro,1,0,['Mirta Diaz']
+Oscar Wilde,1,0,['Constance Lloyd']
+Coco Chanel,0,0,[]
+Pope Francis,0,0,[]
+Amelia Earhart,1,0,['George P']
+Adolf Hitler,1,0,['Eva Braun']
+Sting,0,0,[]
+Alfred Hitchcock,1,0,['Alma Reville']
+Michael Jackson,2,2,"['Lisa Marie Presley', 'Debbie Rowe']"
+Madonna,0,0,[]
+Mata Hari,1,0,['Rudolf John MacLeod ']
+Grace Kelly,1,0,['Rainier III']
+Steve Jobs,1,0,['Laurene Powell Jobs']
+Ronald Reagan,2,0,"['Jane Wyman', 'Nancy Reagan']"
+Lionel Messi,0,0,[]
+Babe Ruth,0,0,[]
+Bob Geldof,0,0,[]
+Leon Trotsky,1,0,['Aleksandra Sokolovskaya']
+Roger Federer,0,0,[]
+Sigmund Freud,1,0,['Martha Bernays']
+Woodrow Wilson,2,0,"['Ellen Axson Wilson', 'Edith Wilson']"
+Mao Zedong,1,0,['Luo Yixiu']
+Katherine Hepburn,1,1,['Ludlow Ogden Smith']
+Audrey Hepburn,2,2,"['Mel Ferrer', 'Andrea Dotti ']"
+David Beckham,1,0,['Victoria Beckham']
+Tiger Woods,1,0,['Elin Nordegren']
+Usain Bolt,0,0,[]
+Carl Lewis,0,0,[]
+Prince Charles,2,1,"['Lady Diana Spencer', 'Camilla Parker Bowles']"
+Jacqueline Kennedy Onassis,2,0,"['John F', 'Aristotle Onassis']"
+C.S. Lewis,1,0,['Joy Davidman']
+Billie Holiday,0,0,[]
+J.R.R. Tolkien,1,0,['Edith Tolkien']
+Billie Jean King,0,0,[]
+Anne Frank,0,0,[]
+Simon Bolivar,0,0,[]
+Marie Antoinette,1,0,['Louis XVI of France']
+Cristiano Ronaldo,0,0,[]
+Emmeline Pankhurst,1,0,['Richard Pankhurst']
+Emile Zatopek,0,0,[]
+Lech Walesa,0,0,[]
+Julie Andrews,2,1,"['Tony Walton', 'Blake Edwards']"
+Florence Nightingale,0,0,[]
+Marie Curie,1,0,['Pierre Curie']
+Stephen Hawking,2,2,"['Jane Hawking', 'Elaine Mason']"
+Tim Berners Lee,2,1,"['Nancy Carlson', 'Rosemary Leith']"
+Lance Armstrong,0,0,[]
+Shakira,0,0,[]
+Jon Stewart,1,0,['Tracey Lynn Stewart']
+Roman Abramovich,2,0,"['Olga Lysova', 'Irina Malandina']"
+Tom Cruise,3,3,"['Mimi Rogers', 'Nicole Kidman', 'Katie Holmes']"
+Rupert Murdoch,1,0,['Patricia Booker ']
+Al Gore,1,0,['Tipper Gore']
+Sacha Baron Cohen,1,0,['Isla Fisher']
+George Clooney,2,1,"['Talia Balsam', 'Amal Clooney']"
+Paul Krugman,0,0,[]
+Jimmy Wales,1,0,['Pamela Green ']
+Brad Pitt,2,1,"['Jennifer Aniston', 'Angelina Jolie']"
+Kylie Minogue,0,0,[]
+Malala Yousafzai,0,0,[]
+Stephen King,1,0,['Tabitha King']
